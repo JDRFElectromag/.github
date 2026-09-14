@@ -4,7 +4,7 @@ AB#
 
 ### Gist
 
-_One or two sentences summarizing what this PR does._
+_One or two sentences summarizing what this PR does. Do **not** repeat what is already in the PR title_
 
 ### Details
 
