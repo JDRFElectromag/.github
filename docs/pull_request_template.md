@@ -24,4 +24,4 @@ _Results of any manual testing not covered by automated CI._
 
 ## Author checklist
 
-- [ ] I'm proud of this PR: I stand behind it as it is, it changes fewer than 1,000 lines (code and documentation alike), and anything left for later has its own work item.
+- [ ] I'm proud of this PR: I stand behind it as it is, and anything left for later has its own work item.
