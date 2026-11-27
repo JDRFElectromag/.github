@@ -1,5 +1,9 @@
 AB#
 
+## Author checklist
+
+- [ ] I'm proud of this PR: I stand behind it as it is, and anything left for later has its own work item.
+
 ## Description of changes
 
 ### Gist
@@ -21,7 +25,3 @@ _Non-breaking changes consumers should be aware of, such as new or updated depen
 ## Manual test logs
 
 _Results of any manual testing not covered by automated CI._
-
-## Author checklist
-
-- [ ] I'm proud of this PR: I stand behind it as it is, and anything left for later has its own work item.
