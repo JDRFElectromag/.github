@@ -1,5 +1,9 @@
 AB#
 
+## Author checklist
+
+- [ ] I'm proud of this PR: I stand behind it as it is, and anything left for later has its own work item.
+
 ## Description of changes
 
 ### Gist
